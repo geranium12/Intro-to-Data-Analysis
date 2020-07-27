@@ -1,2 +1,2 @@
 # Intro-to-Data-Analysis
- "Introduction to Computer and Data Mining" assignments
+ "Introduction to Computer and Data Mining" assignments (BSU, 2019)
